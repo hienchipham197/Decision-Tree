@@ -14,5 +14,5 @@ Die explorative Datenanalyse (EDA) im Projekt dient dazu, ein tiefes Verständni
 Das Projekt zielt darauf ab, mithilfe von Decision Tree und Random Forests ein Modell zu entwickeln, das eine hohe Präzision bei der Klassifizierung erreicht. Die Leistung der Modelle wird durch Metriken wie Genauigkeit, Präzision, Recall und F1-Score bewertet.
 
 ## Binder Badge
-Dieses Projekt auf Binder ausführen: 
+Dieses Projekt auf Binder ausführen: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hienchipham197/Decision-Tree/HEAD)
 
